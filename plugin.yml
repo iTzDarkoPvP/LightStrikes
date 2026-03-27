@@ -1,0 +1,6 @@
+name: LightStrikes
+version: §f1.0.1 By DarkoBRV
+main: LightStrikes\Main
+api: [2.0.0]
+author: iTzDarkoPvP
+description: Hace aparecer un Rayo cuando el jugador muere, entra o se sale del servidor

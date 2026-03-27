@@ -1,0 +1,11 @@
+# Rayo de muertes
+Death:
+  activado: true
+  
+# Rayo de entrada
+Join:
+  activado: true
+  
+# Rayo de salida
+Left:
+  activado: true
